@@ -1,0 +1,7 @@
+opencv-python-headless==4.9.0.80
+tensorflow==2.13.0
+streamlit==1.35.0
+flask
+numpy
+pillow
+gunicorn
