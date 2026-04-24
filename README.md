@@ -59,7 +59,7 @@ Upload an MRI image to check for tumor detection.
 
 ```bash
 git clone https://github.com/ZayanAhmadGhous/Brain_Tumor.git
-cd brain-tumor-detection
+cd Brain_Tumor
 ```
 
 ### Install Dependencies
